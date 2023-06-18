@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ДимASS\\.nuget\\packages\\": {}
+    "C:\\Users\\Сашенька\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\HW\\Ex66\\Ex66.csproj",
+      "projectUniqueName": "C:\\Repository\\HWRec\\Ex66\\Ex66.csproj",
       "projectName": "Ex66",
-      "projectPath": "C:\\Repository\\HW\\Ex66\\Ex66.csproj",
-      "packagesPath": "C:\\Users\\ДимASS\\.nuget\\packages\\",
-      "outputPath": "C:\\Repository\\HW\\Ex66\\obj\\",
+      "projectPath": "C:\\Repository\\HWRec\\Ex66\\Ex66.csproj",
+      "packagesPath": "C:\\Users\\Сашенька\\.nuget\\packages\\",
+      "outputPath": "C:\\Repository\\HWRec\\Ex66\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ДимASS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Сашенька\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
